@@ -36,7 +36,7 @@ namespace Project_1
             }            
 
                 //Console output, site Responds according to user input (anything other than good).
-             else 
+            else 
              {
             Console.WriteLine("Sounds like a you problem.");
              }
@@ -71,7 +71,7 @@ namespace Project_1
             {
                 Console.WriteLine("Well done!");
             }
-                else
+            else
             {    
                 Console.WriteLine("Big nope, try again.");   
             }         
